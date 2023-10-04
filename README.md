@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edurado Melo Nascimento</h1>
+<h1 align="center">Hi 👋, I'm Eduardo Melo Nascimento</h1>
 <h3 align="center">Web Developer constantly learning new tecnologies</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eduardomelonascimento&label=Profile%20views&color=0e75b6&style=flat" alt="eduardomelonascimento" /> </p>
