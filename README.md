@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Melo Nascimento</h1>
 <h3 align="center">Web Developer constantly learning new tecnologies</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eduardomelonascimento&label=Profile%20views&color=0e75b6&style=flat" alt="eduardomelonascimento" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nascyimento&label=Profile%20views&color=0e75b6&style=flat" alt="nascyimento" /> </p>
 
 - 🌱 I’m currently learning **React, Go Laguange, AWS and more**
 
@@ -103,9 +103,9 @@
 <br/>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=eduardomelonascimento&theme=dark&show_icons=true&locale=en" alt="eduardomelonascimento" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardomelonascimento&theme=dark&" alt="eduardomelonascimento" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardomelonascimento&theme=dark&show_icons=true&locale=en&layout=compact"    
- alt="eduardomelonascimento" />
+ <img src="https://github-readme-stats.vercel.app/api?username=nascyimento&theme=dark&show_icons=true&locale=en" alt="nascyimento" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nascyimento&theme=dark&" alt="nascyimento" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nascyimento&theme=dark&show_icons=true&locale=en&layout=compact"    
+ alt="nascyimento" />
 </p>
 
